@@ -1,0 +1,23 @@
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.dll
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.pdb
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csprojResolveAssemblyReference.cache
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csproj.ResolveComReference.cache
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.dll
+D:\C#Projects\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.pdb
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.dll
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.pdb
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\Interop.EdmLib.dll
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csproj.ResolveComReference.cache
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.dll
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.pdb
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.dll.config
+D:\Vlad\3. VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csprojResolveAssemblyReference.cache
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.dll.config
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.dll
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\bin\Debug\VentsPDM-dll.pdb
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csprojResolveAssemblyReference.cache
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\obj\Debug\Interop.EdmLib.dll
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.csproj.ResolveComReference.cache
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.dll
+D:\Vlad\VentsPDM-dll\VentsPDM-dll\obj\Debug\VentsPDM-dll.pdb

@@ -1,0 +1,16 @@
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\bin\Release\PDMUnitTests.dll
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\bin\Release\PDMUnitTests.pdb
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\bin\Release\VentsPDM-dll.dll
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\bin\Release\VentsPDM-dll.pdb
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.csprojResolveAssemblyReference.cache
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.dll
+D:\Vlad\3. VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.pdb
+D:\Vlad\VentsPDM-dll\PDMUnitTests\bin\Release\PDMUnitTests.dll
+D:\Vlad\VentsPDM-dll\PDMUnitTests\bin\Release\PDMUnitTests.pdb
+D:\Vlad\VentsPDM-dll\PDMUnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Vlad\VentsPDM-dll\PDMUnitTests\bin\Release\VentsPDM-dll.dll
+D:\Vlad\VentsPDM-dll\PDMUnitTests\bin\Release\VentsPDM-dll.pdb
+D:\Vlad\VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.csprojResolveAssemblyReference.cache
+D:\Vlad\VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.dll
+D:\Vlad\VentsPDM-dll\PDMUnitTests\obj\Release\PDMUnitTests.pdb

@@ -1,0 +1,16 @@
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe.config
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.pdb
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\bin\Debug\VentsPDM-dll.dll
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\bin\Debug\VentsPDM-dll.pdb
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.csprojResolveAssemblyReference.cache
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.exe
+D:\Vlad\3. VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.pdb
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe.config
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.exe
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.pdb
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.exe
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\bin\Debug\ConsoleTestAplication.pdb
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\bin\Debug\VentsPDM-dll.dll
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\bin\Debug\VentsPDM-dll.pdb
+D:\Vlad\VentsPDM-dll\ConsoleTestAplication\obj\Debug\ConsoleTestAplication.csprojResolveAssemblyReference.cache
